@@ -1,4 +1,4 @@
-# IRIS-Flower-Prediction-Using-Data-Science-and-Machine-Learning-Algorithms
+# IRIS-Flower-Classification-Using-Data-Science-and-Machine-Learning-Algorithms
 <h2> About Iris flower Dataset</h2>
 The aim is to classify iris flowers among three species (setosa, versicolor, or virginica) from measurements of sepals and petals' length and width. 
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
