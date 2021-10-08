@@ -8,15 +8,19 @@ The central goal here is to design a model that makes useful classifications for
 This data set became a typical test case for many statistical classification techniques in machine learning such as support vector machines. This makes the data set a good example to explain the difference between supervised and unsupervised techniques in data mining
 
 # DATA SCIENCE 
+
 -> Extraction on IRIS Dataset (From Sci-Kit learn dataset).                              
 -> Cleaning the data (Dropping or replacing the ambiguous data ). 
--> Data Transformation (Changing the type and values of data)
--> Clustering the data  (Dividing the dataset into different datasets).                             
--> Data Visualization (Using the different type maps with different parameter).                         
--> Splitting the data into test data and train data. 
--> Creating the prediction Model
--> Training and testing of Model
--> Accuracy with confusing matrix
+-> Data Transformation (Changing the type and values of data).                                                                                                           
+-> Clustering the data  (Dividing the dataset into different datasets).                                                                               
+-> Data Visualization (Using the different type maps with different parameter).                                                                    
+-> Splitting the data into test data and train data.                                                     
+# MACHINE LEARNING
+
+-> Creating the prediction Model.                                                                  
+-> Training and testing of Model.                                                         
+-> Finding Accuracy of different model.                                                                       
+-> Comparing the different model with confusing matrix.                                                                                                         
 
 
 
