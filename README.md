@@ -9,10 +9,14 @@ This data set became a typical test case for many statistical classification tec
 
 # DATA SCIENCE 
 -> Extraction on IRIS Dataset (From Sci-Kit learn dataset).                              
--> Cleaning the data (Dropping or replacing the ambiguous data ).                                                
+-> Cleaning the data (Dropping or replacing the ambiguous data ). 
+-> Data Transformation (Changing the type and values of data)
 -> Clustering the data  (Dividing the dataset into different datasets).                             
 -> Data Visualization (Using the different type maps with different parameter).                         
--> Splitting the data into test data and train data.   
+-> Splitting the data into test data and train data. 
+-> Creating the prediction Model
+-> Training and testing of Model
+-> Accuracy with confusing matrix
 
 
 
